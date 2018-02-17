@@ -1,2 +1,2 @@
 # UP-Counters
-3-bit UP Counter
+4-bit UP Counter
